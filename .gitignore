@@ -1,0 +1,23 @@
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
